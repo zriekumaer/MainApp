@@ -5,4 +5,6 @@ import org.springframework.stereotype.Service;
 public interface UserService {
 
 	public boolean validateUser(String userName, String password);
+	
+	public boolean isValidToken(String token);
 }

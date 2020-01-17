@@ -1,4 +1,4 @@
-package com.ust.UserAuthentication.Entity;
+package com.ust.UserAuthentication.entity;
 
 import java.io.Serializable;
 
