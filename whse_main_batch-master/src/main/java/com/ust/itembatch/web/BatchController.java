@@ -31,10 +31,10 @@ public class BatchController {
 			if (receivedItems != null) {
 				return receivedItems;
 			} else {
-				return new ArrayList<>();
+				return new ArrayList<ReceivedItem>();
 			}
 		} else {
-			return new ArrayList<>();
+			return new ArrayList<ReceivedItem>();
 		}
 
 	}

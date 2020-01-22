@@ -1,0 +1,5 @@
+com\ust\itembatch\web\BatchController.class
+com\ust\itembatch\repo\BatchRepository.class
+com\ust\itembatch\entity\ReceivedItem.class
+com\ust\itembatch\service\BatchServiceImpl.class
+com\ust\itembatch\service\BatchService.class

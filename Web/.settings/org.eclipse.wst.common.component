@@ -13,6 +13,9 @@
         <dependent-module archiveName="whse_receipts-master-0.0.1-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/whse_receipts-master/whse_receipts-master">
             <dependency-type>uses</dependency-type>
         </dependent-module>
+        <dependent-module archiveName="Pay_Man_App-0.0.1-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/Pay_Man_App/Pay_Man_App">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
         <property name="context-root" value="Web"/>
         <property name="java-output-path" value="/Web/target/classes"/>
     </wb-module>

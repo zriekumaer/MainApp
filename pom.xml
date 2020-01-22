@@ -8,8 +8,10 @@
 	<packaging>pom</packaging>
 	<name>MainApp</name>
 	<modules>
+		<module>whse_authentication-master</module>
 		<module>whse_main_batch-master</module>
 		<module>whse_receipts-master</module>
+		<module>Pay_Man_App</module>
 		<module>Web</module>
 	</modules>
 	<build>

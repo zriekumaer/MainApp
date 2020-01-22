@@ -22,33 +22,37 @@
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/org.springframework/spring-webmvc -->
 		<dependency>
-		    <groupId>org.springframework</groupId>
-		    <artifactId>spring-webmvc</artifactId>
-		    <version>5.1.5.RELEASE</version>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-webmvc</artifactId>
+			<version>5.1.5.RELEASE</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/org.jboss.spec.javax.servlet/jboss-servlet-api_3.0_spec -->
 		<dependency>
-		    <groupId>org.jboss.spec.javax.servlet</groupId>
-		    <artifactId>jboss-servlet-api_3.0_spec</artifactId>
-		    <version>1.0.0.Final</version>
-		    <scope>provided</scope>
+			<groupId>org.jboss.spec.javax.servlet</groupId>
+			<artifactId>jboss-servlet-api_3.0_spec</artifactId>
+			<version>1.0.0.Final</version>
+			<scope>provided</scope>
 		</dependency>
 		<dependency>
 			<groupId>com.ust.userauthentication</groupId>
-  			<artifactId>whse_authentication-master</artifactId>
-  			<version>0.0.1-SNAPSHOT</version>
+			<artifactId>whse_authentication-master</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 		<dependency>
 			<groupId>om.ust.itembatch</groupId>
-  			<artifactId>whse_main_batch-master</artifactId>
-  			<version>0.0.1-SNAPSHOT</version>
+			<artifactId>whse_main_batch-master</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 		<dependency>
 			<groupId>com.ustglobal.reciept</groupId>
-  			<artifactId>whse_receipts-master</artifactId>
-  			<version>0.0.1-SNAPSHOT</version>
+			<artifactId>whse_receipts-master</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
-		
+		<dependency>
+			<groupId>com.ust.paymanapp</groupId>
+			<artifactId>Pay_Man_App</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 	</dependencies>
 	<build>
 		<finalName>Web</finalName>
