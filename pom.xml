@@ -13,6 +13,7 @@
 		<module>whse_receipts-master</module>
 		<module>Pay_Man_App</module>
 		<module>Web</module>
+		<module>InventoryApp</module>
 	</modules>
 	<build>
 		
